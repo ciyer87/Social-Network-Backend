@@ -14,6 +14,7 @@ Demo video link:  https://drive.google.com/file/d/1LJQXnj2NqtBFhWvxX6kCmwr1tdZTU
 
 ![screenshot without reaction](images/screenshot_without_reaction.png)
 ![screenshot with reaction](images/screenshot_with_reaction.png)
+![screenshot with friends](images/screenshot_with_friends.png)
 
 # Technology
 
