@@ -24,7 +24,7 @@ router
     .post(addThought);
 
 router
-    .route('/:thoughtId/users/:userId')
+    .route('/:thoughtId/user/:userId')
     .delete(removeThought);
 
 // /api/thoughts/<userId>/<thoughtID>    
