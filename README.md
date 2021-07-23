@@ -8,7 +8,7 @@ Clone the repositry from GitHub and open using Visual Studio Code.
 
 # Usage
 
-Demo video link:  https://drive.google.com/file/d/1LJQXnj2NqtBFhWvxX6kCmwr1tdZTUyJh/view
+Demo video link:  https://drive.google.com/file/d/1XaWhML8y0luigB-9fsQGM6xN_tYmpEQW/view
 
 # Screenshots
 
